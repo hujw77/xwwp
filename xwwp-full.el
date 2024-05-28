@@ -5,7 +5,7 @@
 ;; Created: 2020-08-24
 ;; Keywords: convenience
 ;; Version: 0.1
-;; Package-Requires: ((emacs "26.1"))
+;; Package-Requires: ((emacs "26.1") (ctable "0.1.2"))
 
 ;; Copyright (C) 2020  Q. Hong <qhong@mit.edu>
 
